@@ -27,6 +27,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+> The game should be run in the terminal
 
 > Make sure the `assets/` folder is in the same directory and contains all images and audio files.
 
@@ -34,5 +35,18 @@ python main.py
 - Python 3
 - Pygame
 
+## 📸 Screenshots
+
+### 🎯 Main Menu
+![Main Menu](screenshots/menu.png)
+
+### 🛫 Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### 💥 Game Over
+![Game Over](screenshots/gameover.png)
+
+
 ## 👨‍💻 Made By
 Chanitha Abeygunawardena
+
