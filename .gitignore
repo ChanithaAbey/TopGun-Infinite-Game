@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Logs and user data
+*.log
+highscore.txt
+
+# Pygame temp files
+*.tmp
+
+# VSCode config
+.vscode/
