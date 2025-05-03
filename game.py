@@ -77,7 +77,7 @@ def show_main_menu():
     menu_font = load_game_font(48)
     credit_font = load_game_font(24)  # Smaller font for the credit line
 
-    title = title_font.render("Maverick Flier", True, (255, 255, 0))
+    title = title_font.render("TopGun Infinite", True, (255, 255, 0))
     credit = credit_font.render("Made By: Chanitha Abeygunawardena", True, (180, 180, 180))
 
     option1 = menu_font.render("Press [1] for EASY", True, (150, 255, 150))
