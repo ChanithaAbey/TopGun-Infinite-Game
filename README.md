@@ -1,20 +1,19 @@
 # TopGun Infinite
 
-**TopGun Infinite** is a lightweight 2D aerial shooter built using Python and Pygame. Control your jet, dodge incoming missiles, and survive as long as possible. The game includes multiple difficulty levels, simple graphics, sound effects, and a high score tracking system.
+Using Python and Pygame, TopGun Infinite is a light 2D aerial shooter. Pilot your jet, avoid missiles, and stay alive for as long as you can. The game has different levels of difficulty, simple graphics, sound effects, and a way to keep track of high scores.
 
 ## Features
-- Multiple difficulty modes (Easy, Medium, Hard)
-- Player-controlled jet movement with arrow keys
-- Missile enemies with increasing speed per level
-- Clouds for visual depth
-- Background music and collision sound
-- Persistent high score saved to file
-- Game over screen with restart option
+- Interarctive and engaging retro UI/UX
+- Three levels of difficulty: Easy, Medium, and Hard
+- Use the arrow keys to move the jet around.
+- Enemies that shoot missiles at you faster as you level up; clouds for depth;
+- Retro Visual and Sound FX
+- Saved high score
+- Screen that says "Game Over" with a restart option
 
 ## Getting Started
-
 ### Prerequisites
-Make sure you have Python installed (preferably Python 3.6 or newer).
+Make sure you have Python installed. Python 3.6 or later is best.
 
 Install the required libraries:
 
